@@ -33,9 +33,7 @@
       "responses": [
         "The annual tuition fee varies by program. B.Tech typically ranges from 50,000 rupee to 1,20,000 rupee.",
         "Fees can be paid semester-wise or annually through online banking or at the accounts department.",
-        "Scholarships and fee reimbursement schemes are available for eligible students.",
-        "Separate fees apply for hostels, transportation, and special courses.",
-        "Penalty may apply for late fee payment beyond the deadline."
+        "Separate fees apply for hostels, transportation, and special courses."
       ]
     },
     "courses": {
@@ -374,7 +372,24 @@
       "Our alumni network and collaborations with leading industries provide career opportunities and hands-on learning."
     ]
   }
-,
+,"greeting": {
+    "keywords": [
+      
+      "hi",
+      "Hi",
+      "Hii",
+      "hii",
+      "Hello",
+      "hello"
+    ],
+    "responses": [
+  "Hello! How can I help you today with your college inquiries?",
+  "Hi there! Feel free to ask me anything about admissions, academics, or campus life.",
+  "Hey! I'm here to assist you with any questions about our college.",
+  "Greetings! Need information on courses, fees, or placements? I'm ready to help!",
+  "Hi! Looking for details about our programs or facilities? Just ask!"
+]
+  },
 
 
    "default": [
@@ -382,5 +397,5 @@
       "I'm not sure I understand your question. Could you provide more details or ask about a specific aspect of the university?",
       "That's a great question, but I don't have that information right now. Would you like me to connect you with an admissions counselor who can help?"
     ]
-  }
   
+}

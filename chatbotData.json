@@ -83,13 +83,15 @@
         "library",
         "infrastructure",
         "environment"
+        
       ],
       "responses": [
         "The campus features modern infrastructure with smart classrooms and labs.",
         "A large central library, seminar halls, and digital learning centers are available.",
         "Students enjoy vibrant festivals, tech fests, cultural events, and sports meets.",
         "There is a well-equipped gym, cafeteria, and ample hangout spots around campus.",
-        "Green campus initiative ensures clean and eco-friendly surroundings."
+        "Green campus initiative ensures clean and eco-friendly surroundings.",
+        ""
       ]
     },
     "scholarship": {
@@ -199,7 +201,6 @@
     "extracurricular": {
       "keywords": [
         "club",
-        "sports",
         "dance",
         "music",
         "drama",
@@ -211,7 +212,7 @@
       "responses": [
         "Over 20+ clubs are active including Robotics, Dance, Music, Drama, and Coding Club.",
         "Students can participate in inter-college events, national-level competitions, and hackathons.",
-        "Sports facilities include basketball, cricket, football, and indoor games.",
+        
         "NCC and NSS units promote discipline, service, and leadership.",
         "Annual fest 'Selesta2k23' showcases student talent across cultural and technical domains."
       ]
@@ -313,7 +314,7 @@
     "Leadership roles in clubs help build management, communication, and technical skills."
   ]
 },"gym": {
-  "keywords": ["gym", "fitness", "workout", "sports", "exercise", "bodybuilding", "training", "coach"],
+  "keywords": ["gym", "fitness", "workout", "exercise", "bodybuilding", "training", "coach"],
   "responses": [
     "The college gymnasium is equipped with modern fitness machines for strength training and cardio.",
     "Professional coaches are available for personalized workout plans and group fitness sessions.",
@@ -381,6 +382,7 @@
       "hii",
       "Hello",
       "hello"
+      
     ],
     "responses": [
   "Hello! How can I help you today with your college inquiries?",
@@ -389,7 +391,31 @@
   "Greetings! Need information on courses, fees, or placements? I'm ready to help!",
   "Hi! Looking for details about our programs or facilities? Just ask!"
 ]
-  },
+  },"Question": {
+    "keywords": [
+      
+      "self introduction",
+      "who are you?",
+      "your name",
+      "name",
+      "you",
+      "yourself"
+      
+    ],
+    "responses": [
+  "I'm Dev, your friendly virtual assistant created to help with all your queries about Sri Venkateswara College of Engineering and Technology! "
+  
+]},"Sport":{
+  "keywords":[
+    "sport","Sport",
+    "sports","Sports",
+    "Games","games"
+    ,"Game","game"
+  ],
+  "responses":[
+    "At Sri Venkateswara College of Engineering and Technology, we strongly encourage students to stay active and participate in sports! 🏆\n\nHere is what we offer in terms of sports facilities:\n\n- 🏏 Cricket Ground  Full-sized and well-maintained for matches and practice.\n- ⚽ Football Ground – Perfect for team games and tournaments.\n- 🏀 Basketball Court  For both casual play and competitive events. 🏐 Volleyball Court  Regular inter-college matches are held here.\n- 🏸 Badminton Court – Both indoor and outdoor options available.\n- 🥋 Kabaddi Ground  A popular choice among students.\n- 🎯 Indoor Games Rooms  Equipped for chess, carroms, table tennis, and more!Whether you're a seasoned player or just looking to have fun and stay fit there is something for everyone!  Let me know if you would like info about sports teams events or joining a club."
+  ]
+},
 
 
    "default": [

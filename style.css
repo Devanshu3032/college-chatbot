@@ -40,6 +40,7 @@ body {
 
 
 .nav-container {
+  background-color: ffffff;
   max-width: 1200px;
   margin: 0 auto;
   display: flex;
@@ -58,6 +59,7 @@ body {
 .logo-icon {
   font-size: 2rem;
   margin-right: 12px;
+  padding-top: 30px;
   color: var(--primary-color);
   transition: transform 0.3s ease;
 }
@@ -345,7 +347,7 @@ header::before {
 }
 
 .welcome-section h2::after {
-  content: "";
+  /* content: ""; */
   position: absolute;
   bottom: -8px;
   left: 0;
@@ -1005,4 +1007,52 @@ footer p {
 
 .feature-card:hover {
   animation: float 3s ease-in-out infinite;
+}
+.leaders-section {
+  padding: 60px 20px;
+  background: linear-gradient(145deg, #a8b5c3, #5f6d88);
+  color: #fff;
+  text-align: center;
+}
+
+.section-title {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 40px;
+}
+
+.leaders-container {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+.leader-card {
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 15px;
+  padding: 20px;
+  width: 300px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  backdrop-filter: blur(10px);
+}
+
+.leader-img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 15px;
+  border: 4px solid #fff;
+}
+
+.leader-position {
+  font-weight: 600;
+  color: #ffda77;
+  margin: 5px 0;
+}
+
+.leader-description {
+  font-size: 0.95rem;
+  line-height: 1.4;
 }

@@ -1,0 +1,386 @@
+{
+    "admission": {
+      "keywords": [
+        "admission",
+        "apply",
+        "application",
+        "form",
+        "entrance",
+        "counselling",
+        "how to join",
+        "eligibility",
+        "process",
+        "required document"
+      ],
+      "responses": [
+        "Admissions are based on qualifying exam performance and entrance test scores like EAMCET, JEE, or college-level tests.",
+        "You can apply online through the official college portal or in-person during the admission window.",
+        "For engineering, students must have passed 10+2 with Physics, Chemistry, and Math.",
+        "Counselling rounds are conducted for seat allotment. You all need original documents for verification.",
+        "Management quota seats are also available. Contact the admission office for details.",
+        "10th & 12th Mark Sheets ,Transfer Certificate (TC) ,Entrance Exam Rank Card ,Caste & Income Certificate (if applicable) Aadhaar Card, Passport-size photos"
+      ]
+    },
+    "fees": {
+      "keywords": [
+        "fees",
+        "fee structure",
+        "tuition",
+        "payment",
+        "installments",
+        "how much"
+      ],
+      "responses": [
+        "The annual tuition fee varies by program. B.Tech typically ranges from 50,000 rupee to 1,20,000 rupee.",
+        "Fees can be paid semester-wise or annually through online banking or at the accounts department.",
+        "Scholarships and fee reimbursement schemes are available for eligible students.",
+        "Separate fees apply for hostels, transportation, and special courses.",
+        "Penalty may apply for late fee payment beyond the deadline."
+      ]
+    },
+    "courses": {
+      "keywords": [
+        "course",
+        "curriculum",
+        "syllabus",
+        "branches",
+        "departments",
+        "programs",
+        "subjects",
+        "BTech",
+        "MBA"
+      ],
+      "responses": [
+        "We offer programs in Computer Science, ECE, Mechanical, Civil, AI-DS, MBA, and more.",
+        "The curriculum is AICTE-approved and updated to match industry trends.",
+        "Electives in emerging areas like Data Science, IoT, and Cybersecurity are available.",
+        "Lab sessions, mini projects, and industrial training are part of the course.",
+        "Full syllabus PDFs are available on the official website or academic portal."
+      ]
+    },
+    "hostel": {
+      "keywords": [
+        "hostel",
+        "accommodation",
+        "rooms",
+        "mess",
+        "living",
+        "stay"
+      ],
+      "responses": [
+        "Separate hostel facilities are available for boys and girls with 24/7 security.",
+        "Room options include 2-seater, 3-seater with attached or common bathrooms.",
+        "Nutritious food is provided in the mess with both North & South Indian options.",
+        "Wi-Fi, reading rooms, and recreation areas are available in hostels.",
+        "Hostel fee ranges from \u20b930,000 to \u20b960,000 annually depending on the room type."
+      ]
+    },
+    "campuslife": {
+      "keywords": [
+        "campus life",
+        "facilities",
+        "events",
+        "gym",
+        "canteen",
+        "library",
+        "infrastructure",
+        "environment"
+      ],
+      "responses": [
+        "The campus features modern infrastructure with smart classrooms and labs.",
+        "A large central library, seminar halls, and digital learning centers are available.",
+        "Students enjoy vibrant festivals, tech fests, cultural events, and sports meets.",
+        "There is a well-equipped gym, cafeteria, and ample hangout spots around campus.",
+        "Green campus initiative ensures clean and eco-friendly surroundings."
+      ]
+    },
+    "scholarship": {
+      "keywords": [
+        "scholarship",
+        "fee reimbursement",
+        "financial aid",
+        "SC ST",
+        "EBC",
+        "minority",
+        "merit"
+      ],
+      "responses": [
+        "State government scholarships like E-PASS are available for SC, ST, BC, and minority students.",
+        "Merit-based scholarships are awarded to top rankers and branch toppers.",
+        "Students with family income below a certain threshold are eligible for fee reimbursement.",
+        "Private scholarships from NGOs and corporates are encouraged.",
+        "Documentation like income certificate, caste certificate, and marks memo are required for application."
+      ]
+    },
+    "transport": {
+      "keywords": [
+        "bus",
+        "transport",
+        "routes",
+        "pickup",
+        "college bus",
+        "vehicle",
+        "distance"
+      ],
+      "responses": [
+        "College buses operate from various towns and cities covering up to 100 km radius.",
+        "Transport fee is collected term-wise and varies based on distance.",
+        "Each bus is GPS-enabled and monitored for safety and punctuality.",
+        "Students are required to carry their bus pass daily.",
+        "In case of issues, students can contact the Transport Department for support."
+      ]
+    },
+    "exam": {
+      "keywords": [
+        "exam",
+        "internals",
+        "mid",
+        "final",
+        "marks",
+        "evaluation",
+        "grading"
+      ],
+      "responses": [
+        "Each semester includes two mid-exams and one final university exam.",
+        "Internal assessment includes quizzes, assignments, and lab work.",
+        "Final results are based on 40% internal and 60% external marks (may vary by university).",
+        "Model papers and previous year questions are provided for exam prep.",
+        "Students must maintain minimum 75% attendance to be eligible for exams."
+      ]
+    },
+    "attendance": {
+      "keywords": [
+        "attendance",
+        "percentage",
+        "absent",
+        "shortage",
+        "medical",
+        "condonation"
+      ],
+      "responses": [
+        "Minimum 75% attendance is mandatory to write final exams.",
+        "Condonation can be applied for attendance between 65%-74% with valid reason.",
+        "Students with less than 65% are detained and need to repeat the semester.",
+        "Daily attendance is tracked through biometric or manual registers.",
+        "You can check your attendance via student portal or contact your class in-charge."
+      ]
+    },
+    "doubtclearing": {
+      "keywords": [
+        "doubt",
+        "clarification",
+        "help",
+        "tutoring",
+        "remedial",
+        "extra class"
+      ],
+      "responses": [
+        "Faculty conduct weekly doubt-clearing sessions and remedial classes for slow learners.",
+        "You can also meet subject faculty during office hours or after class.",
+        "Peer tutoring sessions are conducted by senior students for tough subjects.",
+        "Special care is given before exams to revise difficult concepts.",
+        "Lab faculty also support students with hands-on doubts and project guidance."
+      ]
+    },
+    "languageskills": {
+      "keywords": [
+        "english",
+        "language lab",
+        "communication",
+        "soft skills",
+        "public speaking"
+      ],
+      "responses": [
+        "We have a dedicated English Language Lab for improving communication skills.",
+        "Workshops on group discussions, resume writing, and mock interviews are conducted regularly.",
+        "Soft skill training is part of the curriculum and conducted in 2nd and 3rd year.",
+        "Students participate in activities like debates, JAM sessions, and storytelling.",
+        "Fluency and confidence in English is essential for placement readiness."
+      ]
+    },
+    "extracurricular": {
+      "keywords": [
+        "club",
+        "sports",
+        "dance",
+        "music",
+        "drama",
+        "ncc",
+        "nss",
+        "robotics",
+        "hackathon"
+      ],
+      "responses": [
+        "Over 20+ clubs are active including Robotics, Dance, Music, Drama, and Coding Club.",
+        "Students can participate in inter-college events, national-level competitions, and hackathons.",
+        "Sports facilities include basketball, cricket, football, and indoor games.",
+        "NCC and NSS units promote discipline, service, and leadership.",
+        "Annual fest 'Selesta2k23' showcases student talent across cultural and technical domains."
+      ]
+    },
+    "antiragging": {
+      "keywords": [
+        "ragging",
+        "anti ragging",
+        "safety",
+        "complaint",
+        "helpline",
+        "discipline"
+      ],
+      "responses": [
+        "Our college has zero tolerance towards ragging in any form.",
+        "Anti-ragging committees and squads conduct regular surveillance in hostels and campus.",
+        "Students can report incidents anonymously through a helpline or portal.",
+        "Strict disciplinary action including suspension and FIR may be taken against offenders.",
+        "Awareness programs are conducted at the beginning of each academic year."
+      ]
+    },
+    "alumni": {
+      "keywords": [
+        "alumni",
+        "pass out",
+        "old students",
+        "graduates",
+        "reunion",
+        "network"
+      ],
+      "responses": [
+        "Our alumni hold prestigious positions in MNCs, research institutions, and government organizations.",
+        "The Alumni Cell regularly hosts reunions and invites alumni for guest lectures.",
+        "Alumni mentorship helps current students with career guidance and higher studies.",
+        "Many alumni support placement and internship opportunities for juniors.",
+        "You can register in the alumni portal to stay connected with the college network."
+      ]
+    },"infrastructure": {
+  "keywords": ["labs", "infrastructure", "classrooms", "wifi", "equipment", "facilities", "computers", "labs"],
+  "responses": [
+    "All departments are equipped with modern labs like Computer Labs, Electronics Labs, Mechanical Workshops, and Simulation Centers.",
+    "The campus is fully Wi-Fi enabled with high-speed internet for academic and project use.",
+    "Classrooms are smart-enabled with projectors, audio systems, and digital boards.",
+    "The college maintains high standards in sanitation, drinking water, and green energy usage.",
+    "Dedicated spaces for research and innovation such as IoT Labs, AI Labs, and Entrepreneurship Cells are also available."
+  ]
+},"parents": {
+  "keywords": ["parents", "guardian", "hostel visit", "fees", "safety", "discipline", "contact", "support"],
+  "responses": [
+    "Parents are welcome to visit campus during working hours or on special Parent-Teacher Meet days.",
+    "The administration maintains regular communication with parents regarding academic performance and attendance.",
+    "24x7 student safety is ensured through security guards, CCTV cameras, and ID access systems.",
+    "Fee payment can be done online or via bank transfer. Receipts are issued instantly for all transactions.",
+    "In case of emergencies, parents can reach out to the Dean of Student Affairs or hostel wardens directly."
+  ]
+},"culturalFest": {
+  "keywords": ["fest", "cultural", "events", "selesta", "celebration", "annual day", "competition", "talent show"],
+  "responses": [
+    "Our flagship cultural fest 'Selesta' attracts participants from colleges across the region, showcasing dance, music, drama, and fashion shows.",
+    "We host annual celebrations like Freshers Day, Independence Day, Republic Day, and College Day with great enthusiasm.",
+    "Competitions like Battle of Bands, Solo Singing, Street Play, and Quiz Night are popular among students.",
+    "Celebrity appearances and DJ nights are often highlights of the Selesta fest.",
+    "All departments also conduct technical and cultural mini-fests as part of student enrichment."
+  ]
+},"library": {
+  "keywords": ["library", "books", "e-library", "digital library", "journals", "reading", "study space", "e-classroom"],
+  "responses": [
+    "Our central library houses thousands of academic and reference books, journals, and magazines across all departments.",
+    "Students can access e-books, online journals, and databases like IEEE, Springer, and JSTOR from the digital library portal.",
+    "Separate reading rooms are available for quiet study and group discussion.",
+    "E-Classrooms are equipped with projectors, interactive boards, and internet for smart learning experiences.",
+    "Library access is available from 8 AM to 8 PM on weekdays, and till noon on weekends."
+  ]
+},"sih": {
+  "keywords": ["sih", "smart india hackathon", "hackathon", "coding event", "innovation", "challenge"],
+  "responses": [
+    "Smart India Hackathon (SIH) is a national-level competition where our students regularly participate and win accolades.",
+    "Our college supports multiple student teams to build real-time solutions to industry problems under SIH.",
+    "Dedicated mentoring and technical guidance are provided during the hackathon preparation phase.",
+    "Past teams from our college have reached national finals and collaborated with government/industry bodies.",
+    "Participation in SIH sharpens problem-solving, team coordination, and innovation skills."
+  ]
+},"nss": {
+  "keywords": ["nss", "social work", "service", "community", "volunteer", "blood donation", "cleanliness drive"],
+  "responses": [
+    "Our NSS unit regularly conducts blood donation camps, village adoption programs, and environmental drives.",
+    "Students can volunteer for social initiatives like tree planting, cleanliness missions, and health awareness campaigns.",
+    "Participation in NSS activities adds value to your degree and cultivates civic responsibility.",
+    "Certificates are awarded for NSS participation which help in placements and higher studies.",
+    "We also collaborate with local NGOs and government bodies for community upliftment projects."
+  ]
+},"chapters": {
+  "keywords": ["student chapter", "ieee", "iste", "club", "association", "technical society", "team"],
+  "responses": [
+    "We have active student chapters like IEEE, ISTE, CSI, IETE, SAE, and entrepreneurship cells.",
+    "These chapters host regular workshops, tech talks, competitions, and industry expert sessions.",
+    "Students gain hands-on project experience and certifications through club activities.",
+    "Membership in student chapters enhances your resume and opens up networking opportunities.",
+    "Leadership roles in clubs help build management, communication, and technical skills."
+  ]
+},"gym": {
+  "keywords": ["gym", "fitness", "workout", "sports", "exercise", "bodybuilding", "training", "coach"],
+  "responses": [
+    "The college gymnasium is equipped with modern fitness machines for strength training and cardio.",
+    "Professional coaches are available for personalized workout plans and group fitness sessions.",
+    "Sports facilities include courts for cricket, volleyball, basketball, badminton, and a running track.",
+    "Annual sports meets and inter-college tournaments provide students opportunities to compete and win awards.",
+    "Students are encouraged to participate in yoga, Zumba, and meditation sessions for holistic wellness."
+  ]
+}, "travell ": {
+  "keywords": ["bus", "transport", "shuttle", "college bus", "pickup", "drop", "route", "travel"],
+  "responses": [
+    "The college operates a fleet of buses covering major routes in nearby towns and cities for safe and convenient commuting.",
+    "Transport services are available for both students and staff, with designated pickup and drop points.",
+    "Bus fees are collected on a yearly or semester basis depending on the distance and route.",
+    "In case of emergencies or events, additional transport arrangements are made by the administration.",
+    "Bus timing charts and route maps are available on the notice board and college website."
+  ]
+}, "placement": {
+    "keywords": [
+      "career",
+      "job",
+      "internship",
+      "employment",
+      "placement",
+      "salary",
+      "hire",
+      "industry",
+      "company"
+    ],
+    "responses": [
+      "Our Career Services team offers career counseling, resume-building workshops, interview coaching, and exclusive job fairs.",
+      "We collaborate with industry leaders to provide internship placements in technology, healthcare, finance, and government sectors.",
+      "Graduates achieve a strong placement rate, with recruiters including multinational corporations and top startups.",
+      "Annual placement drives bring over 150 esteemed recruiters to hire talented students.",
+      "Competitive salary packages are secured by graduates, reflecting high demand for their skills across industries."
+    ]
+  },  "college_evaluation": {
+    "keywords": [
+      "ranking",
+      "accreditation",
+      "reputation",
+      "faculty",
+      "facilities",
+      "good",
+      "placement",
+      "student satisfaction",
+      "industry connections",
+      "extracurricular",
+      "research"
+    ],
+    "responses": [
+      "Our college is accredited and ranked among the top institutions, ensuring high-quality education.",
+      "Experienced faculty members mentor students and engage in cutting-edge research.",
+      "State-of-the-art facilities, including libraries, labs, and sports complexes, enhance student learning.",
+      "Strong placement records with top recruiters and industry partnerships benefit graduates.",
+      "Active student clubs, cultural fests, and extracurricular activities promote a vibrant campus life.",
+      "Our alumni network and collaborations with leading industries provide career opportunities and hands-on learning."
+    ]
+  }
+,
+
+
+   "default": [
+      "I don't have specific information on that topic. Could you try rephrasing your question or ask about admissions, programs, financial aid, campus life, or career services?",
+      "I'm not sure I understand your question. Could you provide more details or ask about a specific aspect of the university?",
+      "That's a great question, but I don't have that information right now. Would you like me to connect you with an admissions counselor who can help?"
+    ]
+  }
+  

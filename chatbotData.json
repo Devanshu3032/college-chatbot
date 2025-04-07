@@ -581,7 +581,7 @@
     ]
   },
   "Infrastructure_InnovationLabs": {
-    "keywords": ["research", "innovation", "iot", "ai"],
+    "keywords": ["research", "innovation"],
     "responses": [
       "Dedicated innovation zones like IoT Labs, AI Labs, and Entrepreneurship Cells foster student-led research and startup ideas."
     ]
@@ -1093,7 +1093,8 @@
       "cse fee",
       "computer science fee",
       "fee for cse",
-      "cse branch fee"
+      "cse branch fee",
+      "CSE","cse"
     ],
     "responses": [
       "The annual fee for Computer Science Engineering (CSE) is ₹1,20,000."
@@ -1106,7 +1107,7 @@
       "fee"
     ],
     "responses": [
-      "The annual fee for Computer Science Engineering (CSE) is ₹1,20,000\n.Here \nis the branch-wise annual fee structure:\n• Computer Science Engineering (CSE): ₹1,20,000\n• Information Technology (IT): ₹1,00,000\n• Computer & Artificial Intelligence (CAI): ₹1,05,000\n• Electronics and Communication Engineering (ECE): ₹95,000\n• Electrical and Electronics Engineering (EEE): ₹90,000\n• Mechanical Engineering (ME): ₹85,000\n• Civil Engineering: ₹80,000\n\nNote: The fee may vary slightly for management quota admissions. Concessions and scholarships are available for differently-abled students based on eligibility."
+      ".Here \nis the branch-wise annual fee structure:\n• Computer Science Engineering (CSE): ₹1,20,000\n• Information Technology (IT): ₹1,00,000\n• Computer & Artificial Intelligence (CAI): ₹1,05,000\n• Electronics and Communication Engineering (ECE): ₹95,000\n• Electrical and Electronics Engineering (EEE): ₹90,000\n• Mechanical Engineering (ME): ₹85,000\n• Civil Engineering: ₹80,000\n\nNote: The fee may vary slightly for management quota admissions. Concessions and scholarships are available for differently-abled students based on eligibility."
      
     ]
   },
@@ -1115,23 +1116,22 @@
       "it fee",
       "information technology fee",
       "fee for it",
-      "it branch fee"
+      "it branch fee", 
+      "it","IT"
     ],
     "responses": [
-      "The annual fee for Information Technology (IT) is ₹1,00,000.",
-      "Note: The fee may vary slightly for management quota admissions. Concessions are available for differently-abled students."
+      "The annual fee for Information Technology (IT) is ₹1,00,000.Note: The fee may vary slightly for management quota admissions. Concessions are available for differently-abled students."
     ]
   },
   "Fee_CAI": {
     "keywords": [
       "cai fee",
       "artificial intelligence fee",
-      "fee for cai",
+      "fee for cai","cai","CAI",
       "computer and ai fee"
     ],
     "responses": [
-      "The annual fee for Computer & Artificial Intelligence (CAI) is ₹1,05,000.",
-      "Note: The fee may vary slightly for management quota admissions. Concessions are available for differently-abled students."
+      "The annual fee for Computer & Artificial Intelligence (CAI) is ₹1,05,000.Note: The fee may vary slightly for management quota admissions. Concessions are available for differently-abled students"
     ]
   },
   "Fee_ECE": {
@@ -1142,8 +1142,7 @@
       "ece branch fee"
     ],
     "responses": [
-      "The annual fee for Electronics and Communication Engineering (ECE) is ₹95,000.",
-      "Note: The fee may vary slightly for management quota admissions. Concessions are available for differently-abled students."
+      "The annual fee for Electronics and Communication Engineering (ECE) is ₹95,000.Note: The fee may vary slightly for management quota admissions. Concessions are available for differently-abled students"
     ]
   },
   "Fee_EEE": {
@@ -1154,8 +1153,7 @@
       "eee branch fee"
     ],
     "responses": [
-      "The annual fee for Electrical and Electronics Engineering (EEE) is ₹90,000.",
-      "Note: The fee may vary slightly for management quota admissions. Concessions are available for differently-abled students."
+      "The annual fee for Electrical and Electronics Engineering (EEE) is ₹90,000.Note: The fee may vary slightly for management quota admissions. Concessions are available for differently-abled students"
     ]
   },
   "Fee_MECH": {
@@ -1166,8 +1164,7 @@
       "me branch fee"
     ],
     "responses": [
-      "The annual fee for Mechanical Engineering (ME) is ₹85,000.",
-      "Note: The fee may vary slightly for management quota admissions. Concessions are available for differently-abled students."
+      "The annual fee for Mechanical Engineering (ME) is ₹85,000.Note: The fee may vary slightly for management quota admissions. Concessions are available for differently-abled students"
     ]
   },
   "Fee_CIVIL": {
@@ -1178,8 +1175,7 @@
       "civil branch fee"
     ],
     "responses": [
-      "The annual fee for Civil Engineering is ₹80,000.",
-      "Note: The fee may vary slightly for management quota admissions. Concessions are available for differently-abled students."
+      "The annual fee for Civil Engineering is ₹80,000.Note: The fee may vary slightly for management quota admissions. Concessions are available for differently-abled students"
     ]
   },
     "Course_Course": {

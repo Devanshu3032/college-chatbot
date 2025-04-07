@@ -36,26 +36,8 @@
         "Separate fees apply for hostels, transportation, and special courses."
       ]
     },
-    "courses": {
-      "keywords": [
-        "course",
-        "curriculum",
-        "syllabus",
-        "branches",
-        "departments",
-        "programs",
-        "subjects",
-        "BTech",
-        "MBA"
-      ],
-      "responses": [
-        "We offer programs in Computer Science, ECE, Mechanical, Civil, AI-DS, MBA, and more.",
-        "The curriculum is AICTE-approved and updated to match industry trends.",
-        "Electives in emerging areas like Data Science, IoT, and Cybersecurity are available.",
-        "Lab sessions, mini projects, and industrial training are part of the course.",
-        "Full syllabus PDFs are available on the official website or academic portal."
-      ]
-    },
+    
+    
     "hostel": {
       "keywords": [
         "hostel",
@@ -73,27 +55,54 @@
         "Hostel fee ranges from \u20b930,000 to \u20b960,000 annually depending on the room type."
       ]
     },
-    "campuslife": {
-      "keywords": [
-        "campus life",
-        "facilities",
-        "events",
-        "gym",
-        "canteen",
-        "library",
-        "infrastructure",
-        "environment"
-        
-      ],
-      "responses": [
-        "The campus features modern infrastructure with smart classrooms and labs.",
-        "A large central library, seminar halls, and digital learning centers are available.",
-        "Students enjoy vibrant festivals, tech fests, cultural events, and sports meets.",
-        "There is a well-equipped gym, cafeteria, and ample hangout spots around campus.",
-        "Green campus initiative ensures clean and eco-friendly surroundings.",
-        ""
-      ]
-    },
+   "CampusLife_CampusLife": {
+    "keywords": ["campus life"],
+    "responses": [
+      "Campus life at SVCET is vibrant and inclusive, offering students a balance of academics, events, and personal development."
+    ]
+  },
+  "CampusLife_Facilities": {
+    "keywords": ["facilities"],
+    "responses": [
+      "The campus offers excellent facilities including smart classrooms, advanced laboratories, seminar halls, and digital learning centers."
+    ]
+  },
+  "CampusLife_Events": {
+    "keywords": ["events"],
+    "responses": [
+      "The college hosts numerous events like tech fests, cultural festivals, workshops, seminars, and sports competitions throughout the year."
+    ]
+  },
+  "CampusLife_Gym": {
+    "keywords": ["gym"],
+    "responses": [
+      "Students have access to a well-equipped gym that supports fitness and physical wellness activities."
+    ]
+  },
+  "CampusLife_Canteen": {
+    "keywords": ["canteen"],
+    "responses": [
+      "The college canteen provides hygienic and affordable food with a variety of vegetarian and non-vegetarian options."
+    ]
+  },
+  "CampusLife_Library": {
+    "keywords": ["library"],
+    "responses": [
+      "The central library is spacious and resource-rich, offering physical and digital access to academic books, journals, and research materials."
+    ]
+  },
+  "CampusLife_Infrastructure": {
+    "keywords": ["infrastructure"],
+    "responses": [
+      "The college boasts modern infrastructure including Wi-Fi-enabled campus, smart classrooms, and specialized research labs."
+    ]
+  },
+  "CampusLife_Environment": {
+    "keywords": ["environment"],
+    "responses": [
+      "SVCET maintains a clean, green, and eco-friendly environment with landscaped gardens and sustainability practices."
+    ] },
+    
     "scholarship": {
       "keywords": [
         "scholarship",
@@ -112,24 +121,7 @@
         "Documentation like income certificate, caste certificate, and marks memo are required for application."
       ]
     },
-    "transport": {
-      "keywords": [
-        "bus",
-        "transport",
-        "routes",
-        "pickup",
-        "college bus",
-        "vehicle",
-        "distance"
-      ],
-      "responses": [
-        "College buses operate from various towns and cities covering up to 100 km radius.",
-        "Transport fee is collected term-wise and varies based on distance.",
-        "Each bus is GPS-enabled and monitored for safety and punctuality.",
-        "Students are required to carry their bus pass daily.",
-        "In case of issues, students can contact the Transport Department for support."
-      ]
-    },
+    
     "exam": {
       "keywords": [
         "exam",
@@ -208,6 +200,7 @@
         "nss",
         "robotics",
         "hackathon"
+       
       ],
       "responses": [
         "Over 20+ clubs are active including Robotics, Dance, Music, Drama, and Coding Club.",
@@ -322,35 +315,55 @@
     "Annual sports meets and inter-college tournaments provide students opportunities to compete and win awards.",
     "Students are encouraged to participate in yoga, Zumba, and meditation sessions for holistic wellness."
   ]
-}, "travell ": {
-  "keywords": ["bus", "transport", "shuttle", "college bus", "pickup", "drop", "route", "travel"],
-  "responses": [
-    "The college operates a fleet of buses covering major routes in nearby towns and cities for safe and convenient commuting.",
-    "Transport services are available for both students and staff, with designated pickup and drop points.",
-    "Bus fees are collected on a yearly or semester basis depending on the distance and route.",
-    "In case of emergencies or events, additional transport arrangements are made by the administration.",
-    "Bus timing charts and route maps are available on the notice board and college website."
-  ]
-}, "placement": {
-    "keywords": [
-      "career",
-      "job",
-      "internship",
-      "employment",
-      "placement",
-      "salary",
-      "hire",
-      "industry",
-      "company"
-    ],
+}, "Travell_Bus": {
+    "keywords": ["bus"],
     "responses": [
-      "Our Career Services team offers career counseling, resume-building workshops, interview coaching, and exclusive job fairs.",
-      "We collaborate with industry leaders to provide internship placements in technology, healthcare, finance, and government sectors.",
-      "Graduates achieve a strong placement rate, with recruiters including multinational corporations and top startups.",
-      "Annual placement drives bring over 150 esteemed recruiters to hire talented students.",
-      "Competitive salary packages are secured by graduates, reflecting high demand for their skills across industries."
+      "The college operates a fleet of buses that connect major towns and localities for students and staff."
     ]
-  },  "college_evaluation": {
+  },
+  "Travell_Transport": {
+    "keywords": ["transport"],
+    "responses": [
+      "Transport facilities are well-managed and available on all working days to ensure timely and safe commuting."
+    ]
+  },
+  "Travell_Shuttle": {
+    "keywords": ["shuttle"],
+    "responses": [
+      "Shuttle services are provided for specific routes during peak hours or for special campus events."
+    ]
+  },
+  "Travell_CollegeBus": {
+    "keywords": ["college bus"],
+    "responses": [
+      "College buses run on predefined routes with fixed timings for pickup and drop, ensuring student convenience."
+    ]
+  },
+  "Travell_Pickup": {
+    "keywords": ["pickup"],
+    "responses": [
+      "Designated pickup points across town make it easy for students to board the college buses on time."
+    ]
+  },
+  "Travell_Drop": {
+    "keywords": ["drop"],
+    "responses": [
+      "College buses provide timely drop service to ensure students reach home safely after classes."
+    ]
+  },
+  "Travell_Route": {
+    "keywords": ["route"],
+    "responses": [
+      "Detailed bus routes and stop locations are published on the college notice board and website."
+    ]
+  },
+  "Travell_Travel": {
+    "keywords": ["travel"],
+    "responses": [
+      "The college ensures hassle-free travel with organized transport schedules, safety measures, and proper bus maintenance."
+    ]
+  }
+  ,  "college_evaluation": {
     "keywords": [
       "ranking",
       "accreditation",
@@ -415,13 +428,355 @@
   "responses":[
     "At Sri Venkateswara College of Engineering and Technology, we strongly encourage students to stay active and participate in sports! 🏆\n\nHere is what we offer in terms of sports facilities:\n\n- 🏏 Cricket Ground  Full-sized and well-maintained for matches and practice.\n- ⚽ Football Ground – Perfect for team games and tournaments.\n- 🏀 Basketball Court  For both casual play and competitive events. 🏐 Volleyball Court  Regular inter-college matches are held here.\n- 🏸 Badminton Court – Both indoor and outdoor options available.\n- 🥋 Kabaddi Ground  A popular choice among students.\n- 🎯 Indoor Games Rooms  Equipped for chess, carroms, table tennis, and more!Whether you're a seasoned player or just looking to have fun and stay fit there is something for everyone!  Let me know if you would like info about sports teams events or joining a club."
   ]
-},
-
+},"Opion": {
+      "keywords": [
+        "Student opion ",
+        "opion ",
+        "Opion",
+        "View"
+      ],
+      "responses": [
+"The faculty is really supportive and the curriculum is up-to-date with current industry trends. Labs are well-equipped too.",       
+"Campus life is vibrant with lots of cultural and tech fests. It's a great place to explore extracurricular activities."        ,
+"Placements are decent, especially for CS and IT. Core branches get fewer opportunities, but internships help bridge the gap."      ]
+      },
+        "Location": {
+          "keywords": [
+            "location",
+            "located",
+            "place",
+            "placed",
+            "where is the college"
+          ],
+          "responses": [
+            "The College is located on highway in an area of 65 Acre of  sceniec beauty at R V S Nagar , Chittoor(AP).The College is located 7 Km from Chittoor and 60 km from Tirupati ."
+          ]
+        },"CampusSize": {
+    "keywords": [
+      "campus size",
+      "area of college",
+      "how big is the campus",
+      "college area",
+      "campus area"
+    ],
+    "responses": [
+      "The College is located on highway in an area of 65 Acre of  sceniec beauty at R V S Nagar , Chittoor(AP).The College is located 7 Km from Chittoor and 60 km from Tirupati ."
+    ]
+  },
+    "CampusArea": {
+      "keywords": [
+        "campus area",
+        "campus size",
+        "area of college",
+        "how big is the campus",
+        "college area",
+        "campas area"
+      ],
+      "responses": [
+        "The college campus spans across 65 acres, providing a spacious and green environment ideal for academics, sports, and student activities."
+      ]
+    }
+    ,"Fee_CSE": {
+    "keywords": [
+      "cse fee",
+      "computer science fee",
+      "fee for cse",
+      "cse branch fee"
+    ],
+    "responses": [
+      "The annual fee for Computer Science Engineering (CSE) is ₹1,20,000."
+     
+    ]
+  },"All_CSE": {
+    "keywords": [
+      "All fee",
+      "fee structure",
+      "fee"
+    ],
+    "responses": [
+      "The annual fee for Computer Science Engineering (CSE) is ₹1,20,000\n.Here \nis the branch-wise annual fee structure:\n• Computer Science Engineering (CSE): ₹1,20,000\n• Information Technology (IT): ₹1,00,000\n• Computer & Artificial Intelligence (CAI): ₹1,05,000\n• Electronics and Communication Engineering (ECE): ₹95,000\n• Electrical and Electronics Engineering (EEE): ₹90,000\n• Mechanical Engineering (ME): ₹85,000\n• Civil Engineering: ₹80,000\n\nNote: The fee may vary slightly for management quota admissions. Concessions and scholarships are available for differently-abled students based on eligibility."
+     
+    ]
+  },
+  "Fee_IT": {
+    "keywords": [
+      "it fee",
+      "information technology fee",
+      "fee for it",
+      "it branch fee"
+    ],
+    "responses": [
+      "The annual fee for Information Technology (IT) is ₹1,00,000.",
+      "Note: The fee may vary slightly for management quota admissions. Concessions are available for differently-abled students."
+    ]
+  },
+  "Fee_CAI": {
+    "keywords": [
+      "cai fee",
+      "artificial intelligence fee",
+      "fee for cai",
+      "computer and ai fee"
+    ],
+    "responses": [
+      "The annual fee for Computer & Artificial Intelligence (CAI) is ₹1,05,000.",
+      "Note: The fee may vary slightly for management quota admissions. Concessions are available for differently-abled students."
+    ]
+  },
+  "Fee_ECE": {
+    "keywords": [
+      "ece fee",
+      "electronics and communication fee",
+      "fee for ece",
+      "ece branch fee"
+    ],
+    "responses": [
+      "The annual fee for Electronics and Communication Engineering (ECE) is ₹95,000.",
+      "Note: The fee may vary slightly for management quota admissions. Concessions are available for differently-abled students."
+    ]
+  },
+  "Fee_EEE": {
+    "keywords": [
+      "eee fee",
+      "electrical engineering fee",
+      "fee for eee",
+      "eee branch fee"
+    ],
+    "responses": [
+      "The annual fee for Electrical and Electronics Engineering (EEE) is ₹90,000.",
+      "Note: The fee may vary slightly for management quota admissions. Concessions are available for differently-abled students."
+    ]
+  },
+  "Fee_MECH": {
+    "keywords": [
+      "mechanical fee",
+      "mech fee",
+      "fee for mechanical",
+      "me branch fee"
+    ],
+    "responses": [
+      "The annual fee for Mechanical Engineering (ME) is ₹85,000.",
+      "Note: The fee may vary slightly for management quota admissions. Concessions are available for differently-abled students."
+    ]
+  },
+  "Fee_CIVIL": {
+    "keywords": [
+      "civil fee",
+      "civil engineering fee",
+      "fee for civil",
+      "civil branch fee"
+    ],
+    "responses": [
+      "The annual fee for Civil Engineering is ₹80,000.",
+      "Note: The fee may vary slightly for management quota admissions. Concessions are available for differently-abled students."
+    ]
+  },
+    "Course_Course": {
+      "keywords": ["course"],
+      "responses": [
+        "We offer a variety of undergraduate and postgraduate courses tailored to industry needs, including B.Tech, MBA, and specialized programs.We offer branches such as Computer Science, ECE, Mechanical, Civil, AI-DS, IT, and more, with flexibility to explore interdisciplinary learning."
+      ]
+    },
+    "Course_Curriculum": {
+      "keywords": ["curriculum"],
+      "responses": [
+        "The curriculum is AICTE-approved and regularly updated to stay in sync with current industry trends and technologies."
+      ]
+    },
+    "Course_Syllabus": {
+      "keywords": ["syllabus"],
+      "responses": [
+        "The full syllabus is available on the academic portal and covers both core subjects and electives. It’s structured for both theoretical and practical learning."
+      ]
+    },
+    "Course_Branches": {
+      "keywords": ["branches"],
+      "responses": [
+        "We offer branches such as Computer Science, ECE, Mechanical, Civil, AI-DS, IT, and more, with flexibility to explore interdisciplinary learning."
+      ]
+    },
+    "Course_Departments": {
+      "keywords": ["departments"],
+      "responses": [
+        "Our departments include Computer Science, Electronics & Communication, Electrical, Mechanical, Civil, AI-DS, IT, and Management Studies."
+      ]
+    },
+    "Course_Programs": {
+      "keywords": ["programs"],
+      "responses": [
+        "Programs include B.Tech, MBA, and domain-focused tracks in AI, IoT, Cybersecurity, and more to prepare students for future-ready careers."
+      ]
+    },
+    "Course_Subjects": {
+      "keywords": ["subjects"],
+      "responses": [
+        "Core and elective subjects include Data Structures, Machine Learning, Digital Electronics, Fluid Mechanics, and more, depending on the branch."
+      ]
+    },
+    "Course_BTech": {
+      "keywords": ["BTech"],
+      "responses": [
+        "The B.Tech program spans 4 years with a strong focus on engineering fundamentals, lab work, projects, internships, and elective choices."
+      ]
+    },
+    "Course_MBA": {
+      "keywords": ["MBA"],
+      "responses": [
+        "The MBA program focuses on leadership, marketing, finance, HR, and includes case studies, internships, and industry interactions."
+      ]
+    }
+  ,"Faculties_Info": {
+  "keywords": ["faculty", "faculties", "teachers", "staff", "professors", "hod", "instructors"],
+  "responses": [
+    "Our college has experienced and qualified faculty across all departments. Professors hold M.Tech, Ph.D., and other advanced degrees, and many are involved in active research and mentoring.",
+    "Faculty members are approachable and dedicated to guiding students both academically and professionally. Each department is headed by a senior professor with vast experience.",
+    "Departments like CSE, ECE, and MECH have faculty specialized in areas like AI, VLSI, Thermal Engineering, and more. Regular guest lectures and industry sessions are also conducted by experts."
+  ]
+ }
+ ,"Extracurricular_Extracurricular": {
+    "keywords": ["extracurricular"],
+    "responses": [
+      "Our college promotes a healthy balance of academics and extracurricular activities to ensure all-round development of students."
+    ]
+  },
+  "Extracurricular_Clubs": {
+    "keywords": ["clubs"],
+    "responses": [
+      "We have various student-run clubs like coding club, dance club, music club, drama club, and photography club that conduct regular sessions and events."
+    ]
+  },
+  "Extracurricular_Activities": {
+    "keywords": ["activities"],
+    "responses": [
+      "Students can participate in technical workshops, seminars, social outreach programs, hackathons, and more organized throughout the academic year."
+    ]
+  },
+  "Extracurricular_Sports": {
+    "keywords": ["sports"],
+    "responses": [
+      "Sports facilities are available for cricket, football, volleyball, badminton, athletics, and indoor games. Annual sports meet is a major highlight."
+    ]
+  },
+  "Extracurricular_Events": {
+    "keywords": ["events"],
+    "responses": [
+      "Numerous events such as tech fests, cultural nights, seminars, and inter-college competitions keep the campus lively and engaging."
+    ]
+  },
+  "Extracurricular_Cultural": {
+    "keywords": ["cultural"],
+    "responses": [
+      "Cultural programs include dance, music, drama, and traditional arts. Students regularly perform during college day and cultural fests."
+    ]
+  },
+  "Extracurricular_Fest": {
+    "keywords": ["fest"],
+    "responses": [
+      "Annual fests like college day, cultural fest, and technical symposiums bring students together for celebration and learning."
+    ]
+  },
+  "Extracurricular_Games": {
+    "keywords": ["games"],
+    "responses": [
+      "The campus offers space and equipment for various indoor and outdoor games, encouraging students to stay active and competitive."
+    ]
+  }, "General_Autonomous": {
+    "keywords": ["autonomous", "affiliation", "status"],
+    "responses": [
+      "Yes, SVCET is an autonomous institution."
+    ]
+  },
+  "General_AdmissionProcess": {
+    "keywords": ["admission", "application", "process", "apply"],
+    "responses": [
+      "Admissions at SVCET are conducted through Common Entrance Tests like EAPCET for UG programs, PGECET for M.Tech, and ICET for MBA and MCA programs. The state government follows a centralized admission procedure for the Convener Quota. For detailed information, please visit our admission process page."
+    ]
+  },
+  "General_EligibilityBTech": {
+    "keywords": ["eligibility", "B.Tech", "qualifications", "criteria"],
+    "responses": [
+      "Candidates must have a minimum of 50% in 10+2 (Intermediate) with Mathematics, Physics, and Chemistry as compulsory subjects to be eligible for B.Tech programs at SVCET."
+    ]
+  },
+  "General_ManagementQuota": {
+    "keywords": ["management quota", "Category-B", "seats"],
+    "responses": [
+      "Yes, 30% of the total seats are under Category-B (Management Quota) and are filled by the college management as per guidelines of APSCHE."
+    ]
+  },
+  "Facilities_Hostel": {
+    "keywords": ["hostel", "accommodation", "facilities"],
+    "responses": [
+      "Yes, SVCET provides hostel accommodation for both boys and girls. The hostels are situated just 0.5 km from the college, with bus facilities available between the college and hostel. The boys' hostel has 269 rooms, and the girls' hostel has 129 rooms, equipped with necessary amenities."
+    ]
+  },
+  "Facilities_Sports": {
+    "keywords": ["sports", "gymnasium", "facilities"],
+    "responses": [
+      "SVCET offers various sports facilities, including a well-equipped gymnasium with modern equipment like 20 individual stations and 2 multi-stations."
+    ]
+  },
+  "Facilities_Transport": {
+    "keywords": ["transport", "bus", "services"],
+    "responses": [
+      "Yes, SVCET offers bus facilities for students between the college and hostels, ensuring convenient transportation."
+    ]
+  },
+  "Facilities_Library": {
+    "keywords": ["library", "resources", "books"],
+    "responses": [
+      "Yes, SVCET has a central library equipped with a vast collection of books, journals, and digital resources to support students' academic needs."
+    ]
+  },
+  "Facilities_AntiRagging": {
+    "keywords": ["anti-ragging", "safety", "measures"],
+    "responses": [
+      "SVCET has a strict anti-ragging policy to ensure the safety and well-being of all students on campus."
+    ]
+  }, "Placement_Record": {
+    "keywords": ["placement", "record", "jobs", "employment"],
+    "responses": [
+      "SVCET has a commendable placement record with numerous students placed in reputed companies over the years. For detailed placement records, please visit our placement record page."
+    ]
+  },
+  "Placement_Companies": {
+    "keywords": ["companies", "recruiters", "placement companies"],
+    "responses": [
+      "Top companies like Infosys, TCS, Wipro, Cognizant, Accenture, Capgemini, Tech Mahindra, and IBM have visited SVCET for campus placements. Several startups and core companies also recruit students from various engineering and management streams."
+    ]
+  },"Placement_Career": {
+    "keywords": ["career"],
+    "responses": [
+      "Our Career Services team offers career counseling, resume-building workshops, interview coaching, and exclusive job fairs."
+    ]
+  },
+  "Placement_Internship": {
+    "keywords": ["internship"],
+    "responses": [
+      "We collaborate with industry leaders to provide internship placements in technology, healthcare, finance, and government sectors."
+    ]
+  },
+  "Placement_Job": {
+    "keywords": ["job", "employment"],
+    "responses": [
+      "Graduates achieve a strong placement rate, with recruiters including multinational corporations and top startups."
+    ]
+  },
+  "Placement_Company": {
+    "keywords": ["company", "industry", "hire"],
+    "responses": [
+      "Annual placement drives bring over 150 esteemed recruiters to hire talented students."
+    ]
+  },
+  "Placement_Salary": {
+    "keywords": ["salary"],
+    "responses": [
+      "Competitive salary packages are secured by graduates, reflecting high demand for their skills across industries."
+    ]
+  },
+  
 
    "default": [
-      "I don't have specific information on that topic. Could you try rephrasing your question or ask about admissions, programs, financial aid, campus life, or career services?",
-      "I'm not sure I understand your question. Could you provide more details or ask about a specific aspect of the university?",
-      "That's a great question, but I don't have that information right now. Would you like me to connect you with an admissions counselor who can help?"
+      "I'm not sure I understand your question. Could you provide more details or ask about a specific aspect of the university?"
     ]
   
 }

@@ -1,16 +1,16 @@
 :root {
-  --primary-color: hsla(253, 82%, 20%, 0.913);
-  --primary-light: #0c146a;
-  --secondary-color: #290b6d;
+  --primary-color: #38b841;
+  --primary-light: #10728d;
+  --secondary-color: #e8f0fe;
   --accent-color: #36d1dc;
   --text-color: #2d3748;
   --light-text: #718096;
   --white: #ffffff;
   --gray-bg: #f7fafc;
-  --border-color: #6e095f;
+  --border-color: #e2e8f0;
   --success-color: #38a169;
   --warning-color: #dd6b20;
-  --error-color: #e53e3e;
+  --error-color:#e53e3e;
 }
 
 * {

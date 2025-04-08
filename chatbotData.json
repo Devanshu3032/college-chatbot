@@ -1380,6 +1380,53 @@
     "responses": [
       "Competitive salary packages are secured by graduates, reflecting high demand for their skills across industries."
     ]
+  },"CSE_HOD_Info": {
+    "keywords": ["cse hod", "computer science hod", "head of cse department"],
+    "responses": [
+      "The Head of the CSE Department is Dr P Jyotheeswari , known for his expertise in  guiding both academic and research excellence."
+    ]
+  },
+  "ECE_HOD_Info": {
+    "keywords": ["ece hod", "electronics hod", "head of ece department"],
+    "responses": [
+      "The Head of the ECE Department is Dr. D. srihari,Ph.D"
+    ]
+  },
+  "EEE_HOD_Info": {
+    "keywords": ["eee hod", "electrical hod", "head of eee department"],
+    "responses": [
+      "The Head of the EEE Department is Dr. Y. N. Vijaya Kumar, who specializes in power systems and energy management."
+    ]
+  },
+  "MECH_HOD_Info": {
+    "keywords": ["mechanical hod", "mech hod", "head of mechanical department"],
+    "responses": [
+      "The Head of the Mechanical Department is Dr. C. Vijaya Bhaskar Reddy, known for his contributions in thermal engineering and CAD/CAM."
+    ]
+  },
+  "CIVIL_HOD_Info": {
+    "keywords": ["civil hod", "head of civil department"],
+    "responses": [
+      "The Head of the Civil Department is Dr. B. Damodhara Reddy, with expertise in structural engineering and sustainable construction."
+    ]
+  },
+  "AIDS_HOD_Info": {
+    "keywords": ["aids hod", "ai ds hod", "artificial intelligence data science hod"],
+    "responses": [
+      "The Head of the AI & DS Department is Dr. B. Lakshmi, who brings deep insights into machine learning and data analytics."
+    ]
+  },
+  "AIML_HOD_Info": {
+    "keywords": ["aiml hod", "ai ml hod", "artificial intelligence machine learning hod"],
+    "responses": [
+      "The Head of the AI & ML Department is Dr. M. Lavanya, with a research focus on neural networks and deep learning."
+    ]
+  },
+  "IT_HOD_Info": {
+    "keywords": ["it hod", "information technology hod"],
+    "responses": [
+      "The Head of the IT Department is Mr. S R  Rajkumar, BE,M.Tech"
+    ]
   },
   
 

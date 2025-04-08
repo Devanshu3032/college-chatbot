@@ -114,7 +114,7 @@
       "Hostel fees range from ₹50,000 to ₹80,000 per year depending on room type and facilities."
     ]
   }, "Hostel_FoodQuality": {
-    "keywords": ["food quality"],
+    "keywords": ["food quality","hostel food","Hostel food"],
     "responses": [
       "The hostel mess maintains high standards of hygiene and food quality, with regular inspections and student feedback."
     ]
@@ -1093,8 +1093,8 @@
       "cse fee",
       "computer science fee",
       "fee for cse",
-      "cse branch fee",
-      "CSE","cse"
+      "cse branch fee"
+      
     ],
     "responses": [
       "The annual fee for Computer Science Engineering (CSE) is ₹1,20,000."
@@ -1116,8 +1116,7 @@
       "it fee",
       "information technology fee",
       "fee for it",
-      "it branch fee", 
-      "it","IT"
+      "it branch fee"
     ],
     "responses": [
       "The annual fee for Information Technology (IT) is ₹1,00,000.Note: The fee may vary slightly for management quota admissions. Concessions are available for differently-abled students."
@@ -1127,7 +1126,7 @@
     "keywords": [
       "cai fee",
       "artificial intelligence fee",
-      "fee for cai","cai","CAI",
+      "fee for cai",
       "computer and ai fee"
     ],
     "responses": [
@@ -1233,7 +1232,7 @@
       ]
     }
   ,"Faculties_Info": {
-  "keywords": ["faculty", "faculties", "teachers", "staff", "professors", "hod", "instructors"],
+  "keywords": ["faculty", "faculties", "teachers", "staff", "professors",  "instructors"],
   "responses": [
     "Our college has experienced and qualified faculty across all departments. Professors hold M.Tech, Ph.D., and other advanced degrees, and many are involved in active research and mentoring.",
     "Faculty members are approachable and dedicated to guiding students both academically and professionally. Each department is headed by a senior professor with vast experience.",
@@ -1387,45 +1386,75 @@
     ]
   },
   "ECE_HOD_Info": {
-    "keywords": ["ece hod", "electronics hod", "head of ece department"],
+    "keywords": ["ece hod", "electronics hod", "head of ece department","hod of ece"],
     "responses": [
       "The Head of the ECE Department is Dr. D. srihari,Ph.D"
     ]
   },
   "EEE_HOD_Info": {
-    "keywords": ["eee hod", "electrical hod", "head of eee department"],
+    "keywords": ["eee hod", "electrical hod", "head of eee department","hod of eee"],
     "responses": [
       "The Head of the EEE Department is Dr. Y. N. Vijaya Kumar, who specializes in power systems and energy management."
     ]
   },
   "MECH_HOD_Info": {
-    "keywords": ["mechanical hod", "mech hod", "head of mechanical department"],
+    "keywords": ["mechanical hod", "mech hod", "head of mechanical department","hod of mechanical"],
     "responses": [
       "The Head of the Mechanical Department is Dr. C. Vijaya Bhaskar Reddy, known for his contributions in thermal engineering and CAD/CAM."
     ]
   },
   "CIVIL_HOD_Info": {
-    "keywords": ["civil hod", "head of civil department"],
+    "keywords": ["civil hod", "head of civil department","hod of civil"],
     "responses": [
       "The Head of the Civil Department is Dr. B. Damodhara Reddy, with expertise in structural engineering and sustainable construction."
     ]
   },
   "AIDS_HOD_Info": {
-    "keywords": ["aids hod", "ai ds hod", "artificial intelligence data science hod"],
+    "keywords": ["has hod", "HAS hod", "artificial intelligence data science hod","hod of HAS","hod of has"],
     "responses": [
-      "The Head of the AI & DS Department is Dr. B. Lakshmi, who brings deep insights into machine learning and data analytics."
+      "The Head of the HAS Department is Dr K. Komala."
     ]
   },
   "AIML_HOD_Info": {
-    "keywords": ["aiml hod", "ai ml hod", "artificial intelligence machine learning hod"],
+    "keywords": ["aiml hod", "ai ml hod", "artificial intelligence machine learning hod","hod of csm"],
     "responses": [
       "The Head of the AI & ML Department is Dr. M. Lavanya, with a research focus on neural networks and deep learning."
     ]
   },
   "IT_HOD_Info": {
-    "keywords": ["it hod", "information technology hod"],
+    "keywords": ["IT hod", "information technology hod","hod of IT"],
     "responses": [
       "The Head of the IT Department is Mr. S R  Rajkumar, BE,M.Tech"
+    ]
+  },"CSD_INFO": {
+    "keywords": ["CSD hod","csd hod", "data science hod","hod of csd"],
+    "responses": [
+      "The Head of the CSD Department is Dr. Libonce sir,Ph.D"
+    ]
+  },"SIE": {
+    "keywords": ["dean of SIE"],
+    "responses": [
+      "The Head of SIE is Dr. T Raja Reddy sir,Ph.D"
+    ]
+  },"Principal":{
+    "keywords": ["Principal","principal","principal of SVCET"],
+    "responses": [
+      "The principal of SVCET Dr. Matam Mohan Babu"
+    ]
+  },"Chairman": {
+    "keywords": ["Chairman"],
+    "responses": [
+      "The  Chairman of SVCET  is Dr. Ravuri Venkataswamy"
+    ]
+  }," Vice Chairman": {
+    "keywords": ["Vice-Chairman","vc"],
+    "responses": [
+      "The Vice Chairman  is Dr. R.V. Srinivas"
+    ]
+  },"academic": {
+    "keywords": ["academic","academics"],
+    "responses": [
+      "At SVCET, we offer a strong academic foundation with a focus on both theoretical knowledge and practical application. Our institution is affiliated with JNTU-Anantapur and follows the university-prescribed curriculum across all departments."
     ]
   },
   

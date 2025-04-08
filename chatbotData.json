@@ -42,7 +42,7 @@
     ]
   },
   "Admission_Eligibility": {
-    "keywords": ["eligibility criteria"],
+    "keywords": ["eligibility criteria","score","B.Tech admission"],
     "responses": [
       "For B.Tech courses, candidates must have completed 10+2 with Physics, Chemistry, and Mathematics."
     ]
@@ -54,7 +54,7 @@
     ]
   },
   "Admission_Documents": {
-    "keywords": ["required documents"],
+    "keywords": ["required documents" ,"necessary document"],
     "responses": [
       "You need 10th & 12th marksheets, TC, Entrance Rank Card, Aadhaar, Caste & Income Certificate (if applicable), and passport-size photos."
     ]

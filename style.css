@@ -10,12 +10,12 @@
   --border-color: #e2e8f0;
   --success-color: #38a169;
   --warning-color: #dd6b20;
+  padding: 0;
   --error-color:#e53e3e;
 }
 
 * {
   margin: 0;
-  padding: 0;
   box-sizing: border-box;
   font-family: "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
 }
@@ -204,7 +204,11 @@ body {
   align-items: center;
   gap: 15px;
 }
-
+.chat-bot-logo{
+  height: 50px;
+  width: 50px;
+  border-radius: 0px;
+}
 .search-box {
   position: relative;
 }

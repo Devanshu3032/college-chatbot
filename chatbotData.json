@@ -1466,6 +1466,11 @@
     "responses": [
       "Separate hostel facilities for boys and girls are available with good amenities, Wi-Fi, and 24/7 security."
     ]
+  },"Transport_Availability": {
+    "keywords": ["bus", "transport", "pickup", "travel"],
+    "responses": [
+      "College buses cover major routes in and around the city for students and staff commuting daily."
+    ]
   },
   
 

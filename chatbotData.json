@@ -1461,6 +1461,11 @@
     "responses": [
       "The annual tuition fee varies by course; for B.Tech, it's approximately ₹90,000 per year excluding hostel and other charges."
     ]
+  }, "Hostel_Facility": {
+    "keywords": ["hostel", "accommodation", "stay"],
+    "responses": [
+      "Separate hostel facilities for boys and girls are available with good amenities, Wi-Fi, and 24/7 security."
+    ]
   },
   
 
